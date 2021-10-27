@@ -1,0 +1,13 @@
+{
+    "name": "io.github.ruccho.viewseprite",
+    "version": "0.1.0",
+    "displayName": "Viewseprite",
+    "description": "Utility to use Aseprite images as Unity Texture2D in realtime.",
+    "unity": "2019.1",
+    "dependencies": {
+   },
+    "author": {
+      "name": "ruccho",
+      "url": "https://ruccho.github.io"
+    }
+  }
