@@ -3,6 +3,10 @@
 
 ![image](https://user-images.githubusercontent.com/16096562/139103047-8df604ad-e0f5-40f3-9d30-43693d48c94d.png)
 
+# Requirements
+ - Tested on Unity 2020.3
+ - **Aseprite v1.2.30  or later**
+
 # Use Sample
 1. Copy `scripts/Launch Viewseprite.lua` into Aseprite scripts folder.
 2. Open Unity project of Viewseprite and play it.
