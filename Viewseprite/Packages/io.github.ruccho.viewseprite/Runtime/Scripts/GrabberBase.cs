@@ -32,7 +32,7 @@ namespace Viewseprite
             isInitialized = true;
             
             if (!texture)
-                texture = new Texture2D(2, 2);
+                texture = new Texture2D(2, 2, TextureFormat.ARGB32, false, true);
             
             SetTexture(texture);
 
